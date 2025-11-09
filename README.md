@@ -36,7 +36,6 @@ Steps:
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
 	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
-	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
  - **[Secretadmin](/writeups/web/Secretadmin)**
@@ -51,7 +50,6 @@ Steps:
  - **[Hyperactive](/writeups/crypto/Hyperactive)**
  - **[Make-a-String](/writeups/crypto/Make-a-String)**
  - **[420BasedIt](/writeups/crypto/420BasedIt)**
-	 - [bwnfools](/writeups/crypto/420BasedIt/bwnfools)  
  - **[Srstokken](/writeups/crypto/Srstokken)**
  - **[Post Quantum Resistant Crypto for Enterprises](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises)**
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
@@ -77,7 +75,6 @@ Steps:
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
  - **[Agents](/writeups/misc/Agents)**
-	 - [bwnfools](/writeups/misc/Agents/bwnfools)  
  - **[Buffy the fortune teller](/writeups/misc/Buffy%20the%20fortune%20teller)**
 ### reversing
  - **[Frozen Labyrinth](/writeups/reversing/Frozen%20Labyrinth)**
